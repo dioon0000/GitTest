@@ -7,7 +7,7 @@
 #include "MyActor.generated.h"
 
 UCLASS()
-class TEAMPROJECT_API AMyActor : public AActor
+class GITTESTPROJECT_API AMyActor : public AActor
 {
 	GENERATED_BODY()
 
